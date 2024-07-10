@@ -24,7 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yubraja&show_icons=true&locale=en&layout=compact" alt="yubraja" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yubraja&show_icons=true&locale=en" alt="yubraja" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yubraja&" alt="yubraja" /></p>
 
